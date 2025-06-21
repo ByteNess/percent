@@ -1,3 +1,3 @@
-module github.com/mtibben/percent
+module github.com/bytness/percent
 
-go 1.14
+go 1.24
